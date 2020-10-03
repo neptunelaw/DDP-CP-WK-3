@@ -1,3 +1,3 @@
 # DDP-CP-WK-3
 
-Slides: neptunelaw.github.io/DDP-CP-WK-3/CP.html
+R Markdown html: https://neptunelaw.github.io/DDP-CP-WK-3/Wk-3b.html
